@@ -1,0 +1,4 @@
+﻿  View.cpp
+C:\Users\jota_\source\repos\quark-final-challenge\quark-final-challenge\View.cpp(215,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jota_\source\repos\quark-final-challenge\quark-final-challenge\View.cpp(222,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  quark-final-challenge.vcxproj -> C:\Users\jota_\source\repos\quark-final-challenge\Debug\quark-final-challenge.exe
